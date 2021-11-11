@@ -1,0 +1,35 @@
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.exe
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.pdb
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\bin\Debug\Word Guess Project.xml
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.exe
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.xml
+E:\VB2017\Chap07\Word Guess Solution\Word Guess Project\obj\Debug\Word Guess Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbprojAssemblyReference.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbproj.CoreCompileInputs.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.pdb
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.exe.config
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.exe
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.pdb
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\bin\Debug\Word Guess Project.xml
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbprojAssemblyReference.cache
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word_Guess_Project.frmMain.resources
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word_Guess_Project.Resources.resources
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbproj.GenerateResource.cache
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.vbproj.CoreCompileInputs.cache
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.exe
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.xml
+F:\School\Spring 2020\MISY3350\MISY 3350\Imported - Visual Studio\Deleon Christopher J VB CH 7\Word Guess Solution - modified\Word Guess Project\obj\Debug\Word Guess Project.pdb
